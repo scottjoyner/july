@@ -1,3 +1,9 @@
+<!-- repo-entrypoint-guide:start -->
+> **Repository context:** This checkout preserves an older React Boilerplate README with upstream branding, badges, and installation instructions. They describe the original template and may not match current React, Node, or package-manager versions.
+> 
+> **Before reuse:** Audit dependencies, replace original deployment/badge links, and run builds/tests in a clean environment before starting a new project from this snapshot.
+<!-- repo-entrypoint-guide:end -->
+
 <img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
 
 <br />
